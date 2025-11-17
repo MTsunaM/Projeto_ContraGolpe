@@ -6,7 +6,7 @@ function Navbar() {
             <Link to="/" className="text-[2rem]">Início</Link>
             <ul className="m-0 p-0 list-none flex gap-4 items-center">
                 <li>
-                    <Link to="/info" className="text-[24px] flex no-underline h-full text-inherit items-center p-1 hover:bg-[#d2d2d2]">Informações</Link>
+                    <Link to="/info" className="text-[24px] flex no-underline h-full text-inherit items-center p-1 hover:bg-[#d2d2d2]">Como se previnir?</Link>
                 </li>
                 <li>
                     <Link to="/register" className="text-[24px] flex no-underline h-full text-inherit items-center p-1 hover:bg-[#d2d2d2]">Cadastrar Golpe</Link>
